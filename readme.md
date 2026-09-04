@@ -14,6 +14,7 @@ Backend · Automation · Integración
 🇬🇧 Inglés B1.2
 
 [![Portfolio](https://img.shields.io/badge/Portafolio-075AD7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://johanserrano200613.github.io/portafolio/)
+[![CV ATS](https://img.shields.io/badge/CV_ATS-0F172A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://johanserrano200613.github.io/portafolio/assets/Johan_Serrano_CV_ATS.pdf)
 [![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johanserrano200613@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johanserrano200613)
 
@@ -146,6 +147,7 @@ Implementa `fetch`, JavaScript asíncrono, manejo de estados de carga/error y re
 Estoy disponible para **oportunidades junior, prácticas y proyectos de desarrollo de software**.
 
 🌐 [Portafolio profesional](https://johanserrano200613.github.io/portafolio/)  
+📄 [Descargar CV ATS](https://johanserrano200613.github.io/portafolio/assets/Johan_Serrano_CV_ATS.pdf)  
 📧 [johanserrano200613@gmail.com](mailto:johanserrano200613@gmail.com)  
 🐙 [github.com/johanserrano200613](https://github.com/johanserrano200613)
 
