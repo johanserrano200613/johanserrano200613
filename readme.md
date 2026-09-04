@@ -1,6 +1,8 @@
 # ¡Hola! 👋 Soy Johan Serrano
 
-### Desarrollo software orientado a backend, automatización e integración de sistemas.
+### Junior Software Developer | Backend & Automation
+
+Desarrollo software orientado a backend, automatización e integración de sistemas.
 
 Construyo proyectos que conectan **aplicaciones, datos, APIs y procesos automatizados**. Me interesa resolver necesidades operativas con soluciones claras, mantenibles y medibles.
 
