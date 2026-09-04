@@ -2,8 +2,6 @@
 <tr>
 <td width="30%" valign="top" align="center">
 
-<img src="./assets/profile/johan-serrano.jpg" width="190" alt="Johan Serrano" />
-
 ## Johan Serrano
 
 **Junior Software Developer**  
