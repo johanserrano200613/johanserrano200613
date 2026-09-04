@@ -1,24 +1,3 @@
-<table>
-<tr>
-<td width="30%" valign="top" align="center">
-
-## Johan Serrano
-
-**Junior Software Developer**  
-Backend · Automation · Integración
-
-📍 Bucaramanga, Colombia  
-🌎 Español nativo  
-🇬🇧 Inglés B1.2
-
-[![Portfolio](https://img.shields.io/badge/Portafolio-075AD7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://johanserrano200613.github.io/portafolio/)
-[![CV ATS](https://img.shields.io/badge/CV_ATS-0F172A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://johanserrano200613.github.io/portafolio/assets/Johan_Serrano_CV_ATS.pdf)
-[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johanserrano200613@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johanserrano200613)
-
-</td>
-<td width="70%" valign="top">
-
 # ¡Hola! 👋 Soy Johan Serrano
 
 ### Desarrollo software orientado a backend, automatización e integración de sistemas.
@@ -41,10 +20,6 @@ Construyo proyectos que conectan **aplicaciones, datos, APIs y procesos automati
 **Datos:** PostgreSQL · MySQL · SQL · DBeaver  
 **Frontend:** HTML5 · CSS3 · JavaScript · Web Components  
 **Herramientas:** Docker · Git · GitHub
-
-</td>
-</tr>
-</table>
 
 ---
 
