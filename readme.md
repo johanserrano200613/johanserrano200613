@@ -1,129 +1,82 @@
-# ¡Hola! 👋 Soy Johan Serrano
+# Johan Serrano
 
-### Junior Software Developer | Backend & Automation
+### Software Developer | Backend · APIs · Data · Automation
 
-Desarrollo software orientado a backend, automatización e integración de sistemas.
+Desarrollador de software junior enfocado en construir soluciones verificables: APIs, lógica de negocio, persistencia, automatización e integración de servicios.
 
-Construyo proyectos que conectan **aplicaciones, datos, APIs y procesos automatizados**. Me interesa resolver necesidades operativas con soluciones claras, mantenibles y medibles.
+Actualmente estoy fortaleciendo fundamentos que hacen que un proyecto sea mantenible y escalable: **separación de responsabilidades, contratos, testing, migraciones, seguridad básica, Docker y documentación técnica**.
 
-### 🚀 Actualmente
-
-- ⚙️ Automatización e integración de procesos con **n8n**.
-- 🐍 Desarrollo y lógica de negocio con **Python**.
-- 🔌 Consumo e integración de **APIs REST y webhooks**.
-- 🗄️ Trabajo con **PostgreSQL, MySQL y SQL**.
-- 🐳 Práctica de entornos y despliegues con **Docker**.
-- 🧠 Integración de IA como componente de apoyo dentro de flujos reales.
-
-### 🛠️ Stack principal
-
-**Backend:** Python · JavaScript · Java · REST APIs · JSON  
-**Automatización:** n8n · Webhooks · Google APIs · Gmail · Telegram  
-**Datos:** PostgreSQL · MySQL · SQL · DBeaver  
-**Frontend:** HTML5 · CSS3 · JavaScript · Web Components  
-**Herramientas:** Docker · Git · GitHub
+**[Portafolio profesional](https://johanserrano200613.github.io/portafolio/)** · **[Hoja de vida](https://johanserrano200613.github.io/portafolio/assets/Johan_Serrano_CV_ATS.pdf)** · **[Email](mailto:johanserrano200613@gmail.com)**
 
 ---
 
-## 🚀 Proyectos destacados
+## Stack principal
 
-### 🤖 TalentFlow AI
-**Sistema inteligente de preselección y priorización de candidatos con revisión humana.**
+**Backend:** Python · FastAPI · Java · REST APIs · JSON · Pydantic  
+**Datos:** PostgreSQL · MySQL · SQL · SQLAlchemy · Alembic · DBeaver  
+**Calidad y herramientas:** Pytest · Testing · Docker · Git · GitHub  
+**Web:** JavaScript · HTML5 · CSS3 · Web Components  
+**Integración:** n8n · Webhooks · Google APIs · Gmail · Telegram · APIs de IA
 
-Formulario web → n8n → extracción/OCR de CV → evaluación semántica con IA → clasificación determinista → Google Sheets → alertas de Telegram.
+## Prácticas de desarrollo que estoy aplicando
 
-`n8n` `JavaScript` `Google Drive` `Google Sheets` `Groq API` `Telegram`
-
-➡️ [Ver TalentFlow AI](https://github.com/johanserrano200613/Proyecto-n8n)
-
----
-
-### 🎒 Préstamo de Equipos Campuslands
-**Automatización end-to-end para solicitudes y confirmaciones de préstamo.**
-
-Interfaz web → webhook n8n → PostgreSQL → Google Sheets → Gmail. Incluye esquema SQL, workflow portable y documentación de la prueba de extremo a extremo.
-
-`HTML` `CSS` `JavaScript` `n8n` `PostgreSQL` `Google Sheets` `Gmail`
-
-➡️ [Ver proyecto](https://github.com/johanserrano200613/prestamo-equipos-campuslands)
+- Separación entre rutas, servicios, repositorios, esquemas y adaptadores.
+- Validación de entradas y contratos en los límites del sistema.
+- Modelado relacional, migraciones y consistencia de datos.
+- Pruebas unitarias, de integración y flujos críticos.
+- Manejo de errores e idempotencia en operaciones sensibles.
+- Variables de entorno y secretos fuera del repositorio.
+- Entornos reproducibles con Docker.
+- Documentación explícita de alcance, límites y pasos de ejecución.
 
 ---
 
-### 📝 Plataforma de Exámenes — Acme School
-**Aplicación web con módulos de exámenes, usuarios, resultados y persistencia en navegador.**
+## Proyectos destacados
 
-Proyecto colaborativo desarrollado con tecnologías nativas del navegador. Mi trabajo se enfocó especialmente en el flujo público para presentar exámenes y calcular resultados.
+### Happy Day MVP
+Backend de atención y ventas conversacionales construido con FastAPI. El proyecto separa API, canales, servicios, repositorios y modelos, e incorpora migraciones, seguridad de sesión, idempotencia y pruebas automatizadas.
 
-`JavaScript` `HTML` `CSS` `Web Components` `localStorage` `sessionStorage`
+**Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Alembic · Pytest · Docker
 
-➡️ [Ver proyecto](https://github.com/johanserrano200613/Proyecto-Jva)
+[Ver repositorio](https://github.com/johanserrano200613/happy-day-mvp)
 
----
+### Tutor de Estudio con IA
+Aplicación con API en Python y cliente Flutter para trabajar con PDF/imagen, OCR, sesiones de estudio y evaluación. El repositorio documenta **112 pruebas de API y 23 pruebas Flutter verificadas**.
 
-### 🌐 REST API — COVID-19
-**Aplicación web para consumir endpoints públicos y visualizar información global y por país.**
+**Stack:** Python · FastAPI · Flutter · OCR · SQLite · PostgreSQL · Testing
 
-Implementa `fetch`, JavaScript asíncrono, manejo de estados de carga/error y representación dinámica de datos.
+[Ver repositorio](https://github.com/johanserrano200613/tutor-estudio)
 
-`JavaScript` `Fetch API` `REST` `HTML` `CSS`
+### E-commerce SQL2
+Base de datos MySQL para productos, proveedores, clientes, inventario y ventas, con consultas avanzadas, funciones, triggers, eventos y procedimientos almacenados.
 
-➡️ [Ver proyecto](https://github.com/johanserrano200613/API)
+**Stack:** MySQL · SQL · Triggers · Events · Stored Procedures · DBeaver
 
----
+[Ver repositorio](https://github.com/johanserrano200613/Parcial-SQL2)
 
-## 📌 Repositorios recomendados
+### TalentFlow AI
+Pipeline de preselección que recibe CV, extrae texto/OCR, consulta IA, aplica reglas deterministas, persiste resultados y notifica a RRHH manteniendo revisión humana.
 
-<p align="center">
-  <a href="https://github.com/johanserrano200613/Proyecto-n8n">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=johanserrano200613&repo=Proyecto-n8n&theme=github_dark&hide_border=true" alt="TalentFlow AI" />
-  </a>
-  <a href="https://github.com/johanserrano200613/prestamo-equipos-campuslands">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=johanserrano200613&repo=prestamo-equipos-campuslands&theme=github_dark&hide_border=true" alt="Préstamo de Equipos" />
-  </a>
-</p>
+**Stack:** n8n · JavaScript · Google APIs · Groq API · Telegram · Webhooks
 
-<p align="center">
-  <a href="https://github.com/johanserrano200613/Proyecto-Jva">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=johanserrano200613&repo=Proyecto-Jva&theme=github_dark&hide_border=true" alt="Plataforma de Exámenes" />
-  </a>
-  <a href="https://github.com/johanserrano200613/API">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=johanserrano200613&repo=API&theme=github_dark&hide_border=true" alt="REST API" />
-  </a>
-</p>
+[Ver repositorio](https://github.com/johanserrano200613/Proyecto-n8n)
 
 ---
 
-## 📊 Actividad técnica
+## En qué estoy creciendo
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=johanserrano200613&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanserrano200613&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
-</p>
+- Diseño y arquitectura de servicios backend.
+- Programación orientada a objetos y diseño modular.
+- Testing y calidad de código.
+- Bases de datos relacionales y optimización de consultas.
+- Docker, despliegue y configuración por entornos.
+- Seguridad de aplicaciones e integración confiable de servicios externos.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=johanserrano200613&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-## 🎯 En qué estoy creciendo
-
-- Arquitectura y diseño de servicios backend.
-- Automatización de procesos y sistemas.
-- Integración de APIs y plataformas externas.
-- Modelado y consulta de bases de datos.
-- Docker, despliegue y entornos reproducibles.
-- Testing, calidad de código y documentación técnica.
-
----
-
-## 🤝 Contacto
+## Contacto
 
 Estoy disponible para **oportunidades junior, prácticas y proyectos de desarrollo de software**.
 
-🌐 [Portafolio profesional](https://johanserrano200613.github.io/portafolio/)  
-📄 [Descargar CV ATS](https://johanserrano200613.github.io/portafolio/assets/Johan_Serrano_CV_ATS.pdf)  
-📧 [johanserrano200613@gmail.com](mailto:johanserrano200613@gmail.com)  
-🐙 [github.com/johanserrano200613](https://github.com/johanserrano200613)
-
-<p align="center"><b>Backend · Automation · Integration</b></p>
+- Portafolio: https://johanserrano200613.github.io/portafolio/
+- Hoja de vida: https://johanserrano200613.github.io/portafolio/assets/Johan_Serrano_CV_ATS.pdf
+- Email: [johanserrano200613@gmail.com](mailto:johanserrano200613@gmail.com)
+- GitHub: https://github.com/johanserrano200613
