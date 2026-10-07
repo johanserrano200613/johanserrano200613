@@ -6,7 +6,7 @@ Desarrollador de software junior enfocado en construir soluciones verificables: 
 
 Actualmente estoy fortaleciendo fundamentos que hacen que un proyecto sea mantenible y escalable: **separación de responsabilidades, contratos, testing, migraciones, seguridad básica, Docker y documentación técnica**.
 
-**[Portafolio profesional](https://johanserrano200613.github.io/portafolio/)** · **[Hoja de vida](https://johanserrano200613.github.io/portafolio/assets/Johan_Serrano_CV_ATS.pdf)** · **[Email](mailto:johanserrano200613@gmail.com)**
+**[Portafolio profesional](https://johanserrano200613.github.io/portafolio/)** · **[Hoja de vida](https://johanserrano200613.github.io/portafolio/assets/Johan_Serrano_Hoja_de_Vida_2026.pdf)** · **[Email](mailto:johanserrano200613@gmail.com)**
 
 ---
 
@@ -77,6 +77,6 @@ Pipeline de preselección que recibe CV, extrae texto/OCR, consulta IA, aplica r
 Estoy disponible para **oportunidades junior, prácticas y proyectos de desarrollo de software**.
 
 - Portafolio: https://johanserrano200613.github.io/portafolio/
-- Hoja de vida: https://johanserrano200613.github.io/portafolio/assets/Johan_Serrano_CV_ATS.pdf
+- Hoja de vida: https://johanserrano200613.github.io/portafolio/assets/Johan_Serrano_Hoja_de_Vida_2026.pdf
 - Email: [johanserrano200613@gmail.com](mailto:johanserrano200613@gmail.com)
 - GitHub: https://github.com/johanserrano200613
